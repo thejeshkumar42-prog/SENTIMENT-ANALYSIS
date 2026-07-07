@@ -35,3 +35,5 @@ A Confusion Matrix was generated to visualize the model's predictions and classi
 Overall, this project successfully demonstrated the complete Natural Language Processing pipeline, including data loading, text preprocessing, feature extraction using TF-IDF, machine learning model training, prediction, evaluation, and visualization. The project provided valuable practical experience in NLP and sentiment analysis while highlighting how machine learning techniques can be used to extract meaningful insights from textual data. The knowledge gained through this project can be extended to real-world applications such as customer feedback analysis, review classification, opinion mining, and social media sentiment monitoring.
 
 # OUTPUT
+
+<img width="918" height="748" alt="Image" src="https://github.com/user-attachments/assets/dc15de47-6bef-4f9a-89a0-8193d1e0b4ea" />
