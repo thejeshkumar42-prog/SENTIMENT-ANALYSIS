@@ -39,3 +39,5 @@ Overall, this project successfully demonstrated the complete Natural Language Pr
 <img width="918" height="748" alt="Image" src="https://github.com/user-attachments/assets/dc15de47-6bef-4f9a-89a0-8193d1e0b4ea" />
 
 <img width="1223" height="413" alt="Image" src="https://github.com/user-attachments/assets/2d8444ad-fc90-4cbd-83bf-32ec0d923424" />
+
+<img width="1006" height="723" alt="Image" src="https://github.com/user-attachments/assets/73ed7845-38ac-40d7-8c5c-0a71c53740f3" />
